@@ -16,6 +16,7 @@ My journey involves designing educational programs, meticulous testing, and coll
 Connect with me on [LinkedIn](https://www.linkedin.com/in/odcenteno) |  [Portfolio](https://www.odcenteno.com)
 
 Let's code with quality and innovation!
+
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
