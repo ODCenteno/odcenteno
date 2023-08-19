@@ -7,6 +7,15 @@
 
 # Results-oriented QA Specialist that drives software excellence through manual testing and automated strategies
 
+With a background as a Course Director at top 100 Y Combinator startup and experience in QA analysis and content quality, I'm dedicated to ensuring top-notch software experiences.
+
+My journey involves designing educational programs, meticulous testing, and collaborating with expert teams to deliver excellence. Seeking to contribute my expertise in QA, testing, and automation to innovative projects.
+
+🔍 Exploring the realm of software QA | 🧪 Testing enthusiast | 📚 Lifelong learner
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/odcenteno) |  [Portfolio](https://www.odcenteno.com)
+
+Let's code with quality and innovation!
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
