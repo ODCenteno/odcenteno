@@ -1,4 +1,4 @@
- ![P![odc-github-banner-rrss](https://github.com/ODCenteno/odcenteno/assets/66588488/5cd3f117-6f70-4c45-b02e-00375fa43939)
+ ![odc-github-banner-rrss](https://github.com/ODCenteno/odcenteno/assets/66588488/5cd3f117-6f70-4c45-b02e-00375fa43939)
 
 <!--  <div id="header" align="center">
   <img decoding="async" src="https://github.com/odcenteno/odcenteno/blob/master/odc-github-banner.jpeg" width="800"/>
@@ -8,7 +8,7 @@
 # Results-oriented QA Specialist that drives software excellence through manual testing and automated strategies
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-ython](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
  ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
